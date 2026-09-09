@@ -1,0 +1,16 @@
+# 大型生成物 / 实验产物（不进版本库）
+models/
+corpora/
+results/
+datasets/
+dataset_*.pt
+*.bin
+*.log
+
+# 个人文档草稿
+*.pdf
+*.docx
+
+# Python
+__pycache__/
+*.pyc
